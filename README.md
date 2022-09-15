@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashhar Azim
+- 👋 Hi, I’m Ashhar 
 - 👀 I’m interested in Cyber-security and Web Development 
 - 🌱 I’m currently learning React.js Node.js
 - 📫 How to reach me? Dženan#9207 on Discord
