@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in Cyber-security and Web Development 
-- 🌱 I’m currently learning React.js Node.js
+- 🌱 I’m currently learning Linux and Assembly 
 - 📫 How to reach me? Dženan#9207 on Discord
 
 <!--- 
