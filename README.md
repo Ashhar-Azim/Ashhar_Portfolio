@@ -1,7 +1,7 @@
 
 - 👀 I’m interested in Cyber-security and Web Development 
 - 🌱 I’m currently learning Linux and Assembly 
-- 📫 How to reach me? Dženan#9207 on Discord
+
 
 <!--- 
 ItsDzenan/ItsDzenan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
