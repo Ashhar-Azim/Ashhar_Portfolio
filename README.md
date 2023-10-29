@@ -1,5 +1,5 @@
 
-- 👀 I’m interested in Cyber-security and Web Development 
+- 👀 I’m interested in Cyber-security 
 - 🌱 I’m currently learning WireShark and Splunk
 
 
